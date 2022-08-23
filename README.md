@@ -4,4 +4,4 @@ Independent Kotlin Project of Android Basics
   <p>
 NOTES:
 <h3>This is made by me<h3/>
- <a href="https://github.com/Sowham-3098/DiceRollerApp/raw/main/DiceRoller.apk">Download The App </a> <p/>
+ <a href="https://github.com/Sowham-3098/DiceRollerApp/raw/master/DiceRoller.apk">Download The App </a> <p/>
