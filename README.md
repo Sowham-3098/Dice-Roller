@@ -1,7 +1,11 @@
-# DiceRollerApp
-Independent Kotlin Project of Android Basics 
-<p><img align="center" alt="DiceRollerApk" width="400" src="https://w7.pngwing.com/pngs/944/284/png-transparent-computer-icons-game-rolling-dice-game-dice-recreation-thumbnail.png"<p/>
-  <p>
-NOTES:
-<h3>This is made by me<h3/>
- <a href="https://github.com/Sowham-3098/DiceRollerApp/raw/master/DiceRoller.apk">Download The App </a> <p/>
+# <h1 align="center">  DiceRoller  </h1>
+<div align="center">
+<h2>Beginner Friendly Kotlin Project </h2>
+</div>
+
+#  <h2 align="center" >Cant't find your dice to play!   Use this app for rolling the Dice.</h2>
+<p align="center"><img align="center" alt="DiceRollerApk" width="400" src="https://thumbs.gfycat.com/SecondTartCygnet-size_restricted.gif"<p/>
+
+
+<h3 align="center" >Made with ❤️ by me <h3/>
+   <p align="center" ><a href="https://github.com/Sowham-3098/DiceRollerApp/raw/master/DiceRoller.apk">Download DiceRoller </a> <p/>
